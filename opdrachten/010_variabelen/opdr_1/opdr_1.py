@@ -1,5 +1,5 @@
 # Opdracht 1
-# Naam student:
+# Naam student: Roisin O'Hagan
 # Groep:
 
 # Hier komt je code...
