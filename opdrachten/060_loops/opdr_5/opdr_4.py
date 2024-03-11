@@ -6,4 +6,6 @@
 
 # Hier start de for-loop
 
-my_list = []
+
+lst = [x ** 3 for x in range(3, 19)]
+print(lst)
