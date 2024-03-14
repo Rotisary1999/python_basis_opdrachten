@@ -7,7 +7,6 @@
 # Hier start de for-loop
 
 my_list = [43948, 878768, 38768, 87555, 765765]
-
-for v in range(, 8, 2):
-#   if...:
-#       print()
+for gedeeld in my_list:
+    if gedeeld % 3 == 0:
+        print(gedeeld)
