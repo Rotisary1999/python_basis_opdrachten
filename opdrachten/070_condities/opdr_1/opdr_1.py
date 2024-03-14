@@ -6,7 +6,12 @@
 
 # Hier start de for-loop....
 
-my_list = []
-
 #for loop
+my_lst = []
+for num in range(1, 11):
 #if statement
+    if num > 4:
+        my_lst.append(num)
+
+for num in my_lst: 
+    print(num)

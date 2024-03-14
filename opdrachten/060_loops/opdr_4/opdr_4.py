@@ -6,4 +6,5 @@
 
 # Hier start de for-loop
 
-my_list = []
+punten_op_lijn = [(4*x + 7) for x in range(1, 11)]
+print(punten_op_lijn)

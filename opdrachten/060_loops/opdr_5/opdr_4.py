@@ -7,5 +7,5 @@
 # Hier start de for-loop
 
 
-lst = [x ** 3 for x in range(3, 19)]
-print(lst)
+lst = [x * 3 for x in range(1, 21)]
+print(lst[:6])
